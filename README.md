@@ -1,4 +1,4 @@
-# Full-Chain Enterprise Perimeter Breach & Host Takeover
+# Empirical Analysis of Database Injection Vectors and System Permission Exploitation in Web Applications
 
 **Enterprise:** Virelox Digital
 **Group:** G10
